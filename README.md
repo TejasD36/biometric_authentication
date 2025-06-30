@@ -28,8 +28,7 @@ Follow these steps to set up and run the project:
 
 1. **Clone this repository:**
    ```bash
-   git clone <your-repo-url>
-   cd <project-folder>
+   git clone https://github.com/TejasD36/biometric_authentication.git
    ```
 
 2. **Install dependencies:**
