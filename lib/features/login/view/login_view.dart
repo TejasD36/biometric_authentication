@@ -194,7 +194,6 @@ class _LoginViewState extends State<LoginView> {
                                 );
                               }
                             },
-                            onLongPress: () {},
                             child: Lottie.asset(
                               Assets.assetsBiometric,
                               animate: true,
